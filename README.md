@@ -34,6 +34,7 @@ requirements.txt # Dependencies
 ---
 
 ## Dataset
-Raw buoy data can be downloaded from [Kaggle](https://www.kaggle.com/datasets/mahdiehhajian/weather-buoy-network) or [Marine Institute](https://data.gov.ie/publisher/marine-institute).  
+
+- Raw buoy data can be downloaded from [Kaggle](https://www.kaggle.com/datasets/mahdiehhajian/weather-buoy-network) or [Marine Institute](https://data.gov.ie/publisher/marine-institute).  
 ---
 
