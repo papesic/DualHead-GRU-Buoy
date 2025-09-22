@@ -1,0 +1,21 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.npz
+*.h5
+*.pkl
+
+# Environment
+.env
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
